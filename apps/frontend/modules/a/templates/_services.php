@@ -6,23 +6,23 @@
                         <i class="icon-eye-open"></i>
                     </div>
                     <h4><?php a_slot('serv1t', 'aText')?></h4>
-                    <p><?php a_slot('serv1', 'aText')?></p>
+                    <?php a_slot('serv1', 'aText')?>
                     <a href="services.html">Read more</a>
                 </div>
-                <div class="service span3">
+                <div class="service span3 temp">
                     <div class="icon-awesome">
                         <i class="icon-table"></i>
                     </div>
                     <h4><?php a_slot('serv2t', 'aText')?></h4>
-                    <p><?php a_slot('serv2', 'aText')?></p>
+                    <?php a_slot('serv2', 'aText')?>
                     <a href="services.html">Read more</a>
                 </div>
-                <div class="service span3">
+                <div class="service span3 temp">
                     <div class="icon-awesome">
                         <i class="icon-magic"></i>
                     </div>
                     <h4><?php a_slot('serv3t', 'aText')?></h4>
-                    <p><?php a_slot('serv3', 'aText')?></p>
+                    <?php a_slot('serv3', 'aText')?>
                     <a href="services.html">Read more</a>
                 </div>
                 <div class="service span3">
