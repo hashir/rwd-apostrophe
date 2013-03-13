@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="work span3">
                     <!--img src="assets/img/portfolio/work1.jpg" alt=""-->
-                    <?php a_slot('lworkimg1', 'aImage')?>
+                    <?php a_slot('lworkimg1', 'aImage', array('width'=>440, 'height'=>215))?>
                     <h4>Lorem Website</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</p>
                     <div class="icon-awesome">

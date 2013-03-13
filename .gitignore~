@@ -3,4 +3,5 @@ log/*
 nbproject/*
 data/*
 test/*
+config/databases.yml
 
